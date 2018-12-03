@@ -1,0 +1,5 @@
+ADD $t0, $t1, $t2
+SUB $t1, $t2, $t3
+ADDi $s0, $s1, 1001
+BEQ $s0, $s1, 1010
+JUMP 1000
